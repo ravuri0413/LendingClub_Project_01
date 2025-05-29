@@ -1,1 +1,1 @@
-spark.executor.cores = 5
+spark.executor.cores = 4
